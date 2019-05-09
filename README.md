@@ -30,3 +30,25 @@ void main() {
   print("hello,world");
 }
 ```
+
+## Tree
+
+```
+.
+├── LICENSE
+├── README.md
+├── bin
+│   └── mymath.dart
+├── examples
+│   └── main.dart
+├── lib
+│   ├── math.dart
+│   └── src
+│       └── add.dart
+├── pubspec.lock
+├── pubspec.yaml
+└── test
+    └── math_test.dart
+
+5 directories, 9 files
+```
